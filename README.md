@@ -1,6 +1,7 @@
 this is api of finance tracker app.
 
 
-tech used:
+# tech used:
 ExpressJs
 NodeJs
+Mongoose
