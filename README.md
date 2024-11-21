@@ -5,3 +5,4 @@ this is api of finance tracker app.
 ExpressJs
 NodeJs
 Mongoose
+dotenv
