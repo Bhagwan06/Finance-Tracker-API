@@ -6,3 +6,4 @@ ExpressJs
 NodeJs
 Mongoose
 dotenv
+cors
