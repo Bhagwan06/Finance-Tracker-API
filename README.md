@@ -7,4 +7,6 @@ this is api of finance tracker app.
 -Mongoose
 -dotenv
 -cors
+- react-router
+
 
